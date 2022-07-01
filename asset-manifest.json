@@ -1,0 +1,20 @@
+{
+  "files": {
+    "main.css": "/Motorcycle-salon/static/css/main.eff6d0b9.chunk.css",
+    "main.js": "/Motorcycle-salon/static/js/main.9701bbad.chunk.js",
+    "main.js.map": "/Motorcycle-salon/static/js/main.9701bbad.chunk.js.map",
+    "runtime-main.js": "/Motorcycle-salon/static/js/runtime-main.78baa79e.js",
+    "runtime-main.js.map": "/Motorcycle-salon/static/js/runtime-main.78baa79e.js.map",
+    "static/js/2.e88d7746.chunk.js": "/Motorcycle-salon/static/js/2.e88d7746.chunk.js",
+    "static/js/2.e88d7746.chunk.js.map": "/Motorcycle-salon/static/js/2.e88d7746.chunk.js.map",
+    "index.html": "/Motorcycle-salon/index.html",
+    "static/css/main.eff6d0b9.chunk.css.map": "/Motorcycle-salon/static/css/main.eff6d0b9.chunk.css.map",
+    "static/js/2.e88d7746.chunk.js.LICENSE.txt": "/Motorcycle-salon/static/js/2.e88d7746.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.78baa79e.js",
+    "static/js/2.e88d7746.chunk.js",
+    "static/css/main.eff6d0b9.chunk.css",
+    "static/js/main.9701bbad.chunk.js"
+  ]
+}
